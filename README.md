@@ -1,1 +1,1 @@
-# Web site for eRestaurant made in VanillaJS
+# Web site for restaturant Dine Out, made in VanillaJS.
