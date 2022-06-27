@@ -2,12 +2,12 @@
 /* ----------------- fonts --------------*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-/*------------
------------ */
+/*---------------------------------------  ----------------------------------------- */
 
-/*------------
-Variables
------------ */
+
+
+/*--------------------------------------- Variables ----------------------------------------- */
+
 :root{
   --main-color: #eaa023;
   --dark: #0c1023;
@@ -19,9 +19,8 @@ Variables
   scroll-behavior: smooth;
 }
 
-/*------------
-Global settings
------------ */
+/*--------------------------------------- Global settings ----------------------------------------- */
+
 *{
   margin: 0;
   padding: 0;
@@ -64,9 +63,9 @@ ul{
 .align-items-center{
   align-items: center;
 }
-/* -----------
-Header 
-------------*/
+
+/* -------------------------------------------------- Header -----------------------------------------------*/
+
 .header{
   padding:12px 0;
   position: fixed;
