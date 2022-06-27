@@ -84,7 +84,9 @@ p {
 .sec-padding {
   padding: 80px 0;
 }
+
 /* section title */
+
 .section-title {
   width: 100%;
   padding: 0 15px;
@@ -104,7 +106,9 @@ p {
   font-weight: 400;
   text-transform: capitalize;
 }
+
 /* buttons */
+
 .btn {
   display: inline-block;
   padding: 10px 30px;
@@ -146,7 +150,9 @@ p {
     transform: rotate(360deg);
   }
 }
+
 /* -------------------------------------------------- Header -----------------------------------------------*/
+
 .header {
   padding: 12px 0;
   position: fixed;
